@@ -1,7 +1,7 @@
 # Python Functions for Data Engineers
 Supporting code examples, Jupyter notebooks, and datasets for the book
-Python Functions for Data Engineers: Write Cleaner, Faster, Safer
-Pipelines by Benjamin Bennett Alexander.
+**Python Functions for Data Engineers: Write Cleaner, Faster, Safer
+Pipelines** by Benjamin Bennett Alexander.
 
 This repository accompanies the book and provides practical examples of
 how to apply software engineering principles when building Python data
