@@ -27,26 +27,3 @@ Visual Studio Code, or another Python development environment.
 
 You do not need to use a particular IDE or development platform. Choose
 the environment you are most comfortable with.
-1. Get the Repository
-Clone the repository:
-git clone https://github.com/Realbenjizo/python-functions-for-data-engineers.git
-Alternatively, select Code → Download ZIP on GitHub and extract the
-files to your computer.
-
-2. Set Up Python
-Make sure you have Python installed. Python 3.10 or later is a
-provisional recommendation; check the requirements for the examples
-before choosing your version.
-
-If you are using Google Colab, you can install the required packages
-directly in a notebook. For example:
-
-%pip install pandas requests pandera
-
-Some chapters may require additional libraries. Follow the installation
-instructions provided in the relevant notebook.
-
-the opportunity to work through the examples yourself.
-
-If you find the materials useful, consider sharing the repository with
-other Python developers and aspiring data engineers.
